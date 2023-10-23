@@ -1,0 +1,27 @@
+.mapa_svg {
+  background: #67bdee;
+}
+
+.mapa_svg seleccionado {
+  background: #274baf;
+}
+
+.mapa_svg {
+  margin: auto;
+}
+
+.mapa_svg path {
+  width: 30%;
+  fill: #d9d9d9;
+  stroke: #000000a3;
+  stroke-width: 1px;
+}
+
+.mapa_svg path:hover {
+  fill: #8cb1d3;
+}
+
+.text {
+  font: bold 3px sans-serif;
+  fill: #187e97;
+}
